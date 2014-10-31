@@ -1,4 +1,4 @@
-jScrollto
+jTools
 =========
 
-Smooth scroll to href
+Usefull small plugins
